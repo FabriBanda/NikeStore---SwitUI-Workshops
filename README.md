@@ -1,4 +1,4 @@
- Nike Store – SwiftUI Workshop
+## Nike Store – SwiftUI Workshop
 
 Mini app creada durante los **SwiftUI Workshops** (18 y 19 de septiembre, Tec de Monterrey) impartidos por **Swift Tec**.  
 El objetivo fue aprender SwiftUI desde cero y terminar con una **app funcional para iPhone** al finalizar los talleres.
