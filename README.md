@@ -1,7 +1,9 @@
 ## Nike Store – SwiftUI Workshop
 
-Mini app creada durante los **SwiftUI Workshops** (18 y 19 de septiembre, Tec de Monterrey) impartidos por **Swift Tec**.  
-El objetivo fue aprender SwiftUI desde cero y terminar con una **app funcional para iPhone** al finalizar los talleres.
+Mini app creada durante los **SwiftUI Workshops** (18 y 19 de septiembre, Tec de Monterrey),  
+impartidos por **Swift Tec**, en los cuales tuve la oportunidad de participar como tallerista. 
+
+El objetivo fue aprender SwiftUI desde cero y terminar con una **app funcional para iPhone** al finalizar el segundio dia de taller.
 
 ## Features
 - Lista de sneakers (nombre, precio, descripción y rating).
@@ -10,7 +12,7 @@ El objetivo fue aprender SwiftUI desde cero y terminar con una **app funcional p
 - Datos locales usando un modelo `Sneaker`.
 - Navegación con `NavigationStack` y `NavigationLink`.
 - `TabView` con dos secciones: **Store** y **Profile**.
-
+- Barra de busqueda para filtrar por modelos de tenis
 ---
 
 ## Tecnologías utilizadas
@@ -22,12 +24,12 @@ El objetivo fue aprender SwiftUI desde cero y terminar con una **app funcional p
 ---
 
 ## Estructura del proyecto
-- `Sneaker.swift` → Modelo de datos.
-- `StoreView.swift` → Lista de sneakers.
-- `SneakerView.swift` → Vista de cada card en la lista.
-- `DetailSneakerView.swift` → Vista de detalle con animación.
-- `ProfileView.swift` → Vista de perfil básica.
-- `ContentView.swift` → Contenedor principal con `TabView`.
+- `Sneaker.swift` - Modelo de datos.
+- `StoreView.swift` - Lista de sneakers.
+- `SneakerView.swift` - Vista de cada card en la lista.
+- `DetailSneakerView.swift` - Vista de detalle con animación.
+- `ProfileView.swift` - Vista de perfil básica.
+- `ContentView.swift` - Contenedor principal con `TabView`.
 
 ---
 
@@ -37,4 +39,11 @@ El objetivo fue aprender SwiftUI desde cero y terminar con una **app funcional p
    git clone https://github.com/TU-USUARIO/NikeStore-SwiftUI.git
 
 ## Screenshots
+## Store View 
 ![Store View Screenshot](NikeStore.png)
+
+## Detail View
+![Store View Screenshot](DetailView.png)
+
+## Profile View
+![Store View Screenshot](ProfileView.png)
