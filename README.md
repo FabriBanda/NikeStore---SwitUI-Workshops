@@ -37,4 +37,4 @@ El objetivo fue aprender SwiftUI desde cero y terminar con una **app funcional p
    git clone https://github.com/TU-USUARIO/NikeStore-SwiftUI.git
 
 ## Screenshots
-![Store View Screenshot][NjkeStore.png]
+![Store View Screenshot][NikeStore.png]
